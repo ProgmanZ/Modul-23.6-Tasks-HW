@@ -71,18 +71,18 @@ def check_nick_name(path_to_db):
 
 def check_work(list_dir):  # Заранее подать список файлов на вход dir_list = os.listdir()
     # Запускается и проверяется первым
+    work_status = dict()
     if 'prefix.txt' in list_dir:
         with open('prefix.txt', 'r', encoding='utf-8') as prefix_file:
             line = prefix_file.read()
-            if line == 'server':
-                line = prefix_file.read()  # чтение второй строчки конфигурации
-                pass
-            elif line == 'client':
-                line = prefix_file.read()  # чтение второй строчки конфигурации
-                pass
+            if line == 'server' or line == 'client':
+                work_status[line] = prefix_file.read()
+                #   После проверки этой функции передать значение в функцию проверки фалйла ников
+                #
+                #
+                #
             else:
                 print('Ошибка в файле prefix.txt. Удалите файл и запустите программу заново. Файл будет пересоздан.')
-
 
     else:
         with open('prefix.txt', 'w', encoding='utf-8') as prefix_file:  # если файл префикса не найден.
