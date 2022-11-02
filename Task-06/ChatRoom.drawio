@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-02T11:45:12.887Z" agent="5.0 (Windows)" etag="yOLGen3y1_jRjDxjkahp" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-02T11:56:56.466Z" agent="5.0 (Windows)" etag="gnAkYNoi_wxtXT85G-Jn" version="20.2.7" type="github">
   <diagram id="WI4I4hoaoizqUKj729qU" name="Страница 1">
     <mxGraphModel dx="567" dy="2267" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -251,8 +251,8 @@
         <mxCell id="iqisSgY30IOrJJ_We8OU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uR1EnJvYWRF4fKtK4rIs-81" target="iqisSgY30IOrJJ_We8OU-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uR1EnJvYWRF4fKtK4rIs-81" value="&lt;div&gt;проверить наличие файла chat.txt&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Courier New;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="530" y="1180" width="120" height="35" as="geometry" />
+        <mxCell id="uR1EnJvYWRF4fKtK4rIs-81" value="&lt;div&gt;проверить наличие файла chat.txt на сервере&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Courier New;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="530" y="1180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iqisSgY30IOrJJ_We8OU-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uR1EnJvYWRF4fKtK4rIs-94" target="uR1EnJvYWRF4fKtK4rIs-81">
           <mxGeometry relative="1" as="geometry">
@@ -379,6 +379,12 @@
         </mxCell>
         <mxCell id="iqisSgY30IOrJJ_We8OU-45" value="Запросить у пользователя" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Courier New;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="530" y="1580" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iqisSgY30IOrJJ_We8OU-49" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1165" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iqisSgY30IOrJJ_We8OU-50" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1215" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
