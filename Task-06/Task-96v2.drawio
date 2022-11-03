@@ -1,1 +1,88 @@
-<mxfile host="app.diagrams.net" modified="2022-11-03T10:03:08.105Z" agent="5.0 (Windows)" etag="MtXZDE1D2Oe8frdgxbFp" version="20.2.7" type="github"><diagram id="cnSJOS5XwAXXeofHik9R" name="Страница 1">dZE9D4MgEIZ/DbtC+uFsbV06OXQmchUS9AzSaPvrqwFqiW3CcDz33jdheTtdDO/lFQVoQhMxEXYilB4pJctLxNOBdJd50hglPFtBpV7gYeLpQwkYIqFF1Fb1Mayx66C2EePG4BjL7qjjqj1vYAOqmustvSlhZZjrsPISVCND5XSfOU/Lg9hPMkgucPxCrCAsN4jWWe2Ug16WF/bi4s5/vJ/GDHT2R8BsrLnnT3QhVrwB</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-03T10:03:27.183Z" agent="5.0 (Windows)" etag="-rhbGMzXMbvoM-50OVRB" version="20.2.7" type="github">
+  <diagram id="cnSJOS5XwAXXeofHik9R" name="Страница 1">
+    <mxGraphModel dx="1649" dy="2718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lvduNhsSgE9Xxu-e2S0--1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Courier New;fontSize=11;" edge="1" parent="1" source="lvduNhsSgE9Xxu-e2S0--2" target="lvduNhsSgE9Xxu-e2S0--22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lvduNhsSgE9Xxu-e2S0--2" value="&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;вывести сообщение&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;записать в лог файл&lt;br&gt;&lt;/font&gt; &lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="215.5" y="-410" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lvduNhsSgE9Xxu-e2S0--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Courier New;fontSize=11;" edge="1" parent="1" source="lvduNhsSgE9Xxu-e2S0--7" target="lvduNhsSgE9Xxu-e2S0--17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lvduNhsSgE9Xxu-e2S0--4" value="Server" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Courier New;" vertex="1" connectable="0" parent="lvduNhsSgE9Xxu-e2S0--3">
+          <mxGeometry x="-0.4656" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lvduNhsSgE9Xxu-e2S0--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Courier New;fontSize=11;" edge="1" parent="1" source="lvduNhsSgE9Xxu-e2S0--7" target="lvduNhsSgE9Xxu-e2S0--19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="84" y="-835" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lvduNhsSgE9Xxu-e2S0--6" value="Local" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Courier New;" vertex="1" connectable="0" parent="lvduNhsSgE9Xxu-e2S0--5">
+          <mxGeometry x="-0.5092" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lvduNhsSgE9Xxu-e2S0--7" value="server?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="226.5" y="-870" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lvduNhsSgE9Xxu-e2S0--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Courier New;fontSize=11;" edge="1" parent="1" source="lvduNhsSgE9Xxu-e2S0--9" target="lvduNhsSgE9Xxu-e2S0--7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lvduNhsSgE9Xxu-e2S0--9" value="Запросить у пользователя режим работы программы" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Courier New;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="206.5" y="-950" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lvduNhsSgE9Xxu-e2S0--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Courier New;fontSize=11;" edge="1" parent="1" source="lvduNhsSgE9Xxu-e2S0--11" target="lvduNhsSgE9Xxu-e2S0--15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lvduNhsSgE9Xxu-e2S0--11" value="Запросить у пользователя путь к файлу chat.txt" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Courier New;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-660" width="174" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lvduNhsSgE9Xxu-e2S0--12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Courier New;fontSize=11;" edge="1" parent="1" source="lvduNhsSgE9Xxu-e2S0--15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450.4999999999998" y="-512.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lvduNhsSgE9Xxu-e2S0--13" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Courier New;" vertex="1" connectable="0" parent="lvduNhsSgE9Xxu-e2S0--12">
+          <mxGeometry x="-0.1403" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lvduNhsSgE9Xxu-e2S0--14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.467;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Courier New;fontSize=11;" edge="1" parent="1" source="lvduNhsSgE9Xxu-e2S0--15" target="lvduNhsSgE9Xxu-e2S0--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lvduNhsSgE9Xxu-e2S0--15" value="&lt;font face=&quot;Courier New&quot;&gt;файл chat.txt найден?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="208.5" y="-550" width="177" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lvduNhsSgE9Xxu-e2S0--16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Courier New;fontSize=11;" edge="1" parent="1" source="lvduNhsSgE9Xxu-e2S0--17" target="lvduNhsSgE9Xxu-e2S0--11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lvduNhsSgE9Xxu-e2S0--17" value="&lt;font face=&quot;Courier New&quot;&gt;Установить Flag = server&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="202" y="-750" width="188" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lvduNhsSgE9Xxu-e2S0--18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Courier New;fontSize=11;" edge="1" parent="1" source="lvduNhsSgE9Xxu-e2S0--19" target="lvduNhsSgE9Xxu-e2S0--15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lvduNhsSgE9Xxu-e2S0--19" value="Установить Flag = local" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="-750" width="188" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lvduNhsSgE9Xxu-e2S0--20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Courier New;fontSize=11;" edge="1" parent="1" source="lvduNhsSgE9Xxu-e2S0--21" target="lvduNhsSgE9Xxu-e2S0--9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lvduNhsSgE9Xxu-e2S0--21" value="Старт программы" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="236" y="-1040" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lvduNhsSgE9Xxu-e2S0--22" value="&lt;font face=&quot;Courier New&quot;&gt;Какой Flag?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="208.5" y="-330" width="177" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
