@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-03T12:39:33.626Z" agent="5.0 (Windows)" etag="5ioVQbThT_LfV8eo3uVJ" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-03T12:44:54.131Z" agent="5.0 (Windows)" etag="Qe17rmLZVvx8K--fjpiv" version="20.2.7" type="github">
   <diagram id="gb_wOWOb_qzQlViS4AKi" name="Страница 1">
-    <mxGraphModel dx="1174" dy="2274" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="685" dy="1327" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -158,7 +158,7 @@
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-53" value="&lt;font color=&quot;#FF0000&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Нет&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Courier New;" vertex="1" connectable="0" parent="-_wJu4tCFWoY7v_CzMal-51">
           <mxGeometry x="-0.1267" relative="1" as="geometry">
-            <mxPoint x="-79" as="offset" />
+            <mxPoint x="-250" y="-70" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Courier New;fontSize=12;" edge="1" parent="1" source="-_wJu4tCFWoY7v_CzMal-44" target="-_wJu4tCFWoY7v_CzMal-49">
