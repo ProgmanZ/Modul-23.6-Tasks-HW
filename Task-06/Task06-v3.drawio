@@ -1,40 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T12:27:02.419Z" agent="5.0 (Windows)" etag="JPQeaR2_lXIX2gi_dkVq" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-04T12:31:25.572Z" agent="5.0 (Windows)" etag="XThNmlPAN9bzpQmkgFGV" version="20.5.1" type="github">
   <diagram id="gb_wOWOb_qzQlViS4AKi" name="Страница 1">
-    <mxGraphModel dx="4890" dy="2149" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3539" dy="1253" grid="0" gridSize="10" guides="0" tooltips="0" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Zv35brcsEW0MMsmxYVBT-7" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#D4E1F5;" vertex="1" parent="1">
-          <mxGeometry x="-190" width="1260" height="2900" as="geometry" />
+          <mxGeometry x="-1168" width="1260" height="2900" as="geometry" />
         </mxCell>
         <mxCell id="Zv35brcsEW0MMsmxYVBT-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#BFF7ED;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="1950" width="820" height="950" as="geometry" />
+          <mxGeometry x="-1168" y="1950" width="820" height="950" as="geometry" />
         </mxCell>
         <mxCell id="Zv35brcsEW0MMsmxYVBT-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="950" width="1110" height="1000" as="geometry" />
+          <mxGeometry x="-1168" y="950" width="1110" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="Zv35brcsEW0MMsmxYVBT-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E1F5E0;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="260" width="1110" height="690" as="geometry" />
+          <mxGeometry x="-1168" y="260" width="1110" height="690" as="geometry" />
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Courier New;" parent="1" source="-_wJu4tCFWoY7v_CzMal-1" target="-_wJu4tCFWoY7v_CzMal-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-1" value="&lt;font face=&quot;Courier New&quot;&gt;Старт программы&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" parent="1" vertex="1">
-          <mxGeometry x="240" y="70" width="260" height="30" as="geometry" />
+          <mxGeometry x="-738" y="70" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Courier New;" parent="1" source="-_wJu4tCFWoY7v_CzMal-2" target="-_wJu4tCFWoY7v_CzMal-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-2" value="&lt;div align=&quot;left&quot;&gt;Объявить словарь status{}.&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Значения ключей: chat, settings, nicks, user, mode.&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Значения у каждого ключа:False.&lt;br&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Courier New;align=left;" parent="1" vertex="1">
-          <mxGeometry x="240" y="140" width="260" height="90" as="geometry" />
+          <mxGeometry x="-738" y="140" width="260" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Courier New;" parent="1" source="-_wJu4tCFWoY7v_CzMal-4" target="-_wJu4tCFWoY7v_CzMal-9" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="400" as="targetPoint" />
+            <mxPoint x="-678" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-4" value="&lt;div&gt;Запрос режима работы программы&lt;/div&gt;&lt;div&gt;у пользователя&lt;/div&gt;&lt;div&gt;(server|client)&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Courier New;strokeColor=#009900;fillColor=#00FF00;" parent="1" vertex="1">
-          <mxGeometry x="240" y="280" width="260" height="60" as="geometry" />
+          <mxGeometry x="-738" y="280" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Courier New;" parent="1" source="-_wJu4tCFWoY7v_CzMal-9" target="-_wJu4tCFWoY7v_CzMal-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -47,7 +47,7 @@
         <mxCell id="-_wJu4tCFWoY7v_CzMal-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.625;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Courier New;fontSize=14;" parent="1" source="-_wJu4tCFWoY7v_CzMal-9" target="-_wJu4tCFWoY7v_CzMal-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="370" y="480" />
+              <mxPoint x="-608" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -57,25 +57,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-9" value="&lt;div&gt;Проверка режима работы программы&lt;/div&gt;&lt;div&gt;(server|client)&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Courier New;strokeColor=#0000FF;fillColor=#E6D0DE;" parent="1" vertex="1">
-          <mxGeometry x="240" y="400" width="260" height="80" as="geometry" />
+          <mxGeometry x="-738" y="400" width="260" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Courier New;entryX=0.184;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="-_wJu4tCFWoY7v_CzMal-13" target="-_wJu4tCFWoY7v_CzMal-16" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="610" as="targetPoint" />
+            <mxPoint x="-678" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-13" value="Запрос сетевого пути к файлам у пользователя" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Courier New;strokeColor=#009900;fillColor=#00FF00;" parent="1" vertex="1">
-          <mxGeometry x="-70" y="510" width="260" height="60" as="geometry" />
+          <mxGeometry x="-1048" y="510" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Courier New;" parent="1" source="-_wJu4tCFWoY7v_CzMal-16" target="-_wJu4tCFWoY7v_CzMal-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-16" value="Проверка введенного пути пользователем или локальный путь" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Courier New;" parent="1" vertex="1">
-          <mxGeometry x="240" y="630" width="260" height="60" as="geometry" />
+          <mxGeometry x="-738" y="630" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Courier New;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="-_wJu4tCFWoY7v_CzMal-17" target="-_wJu4tCFWoY7v_CzMal-101" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="670.04" y="590" as="targetPoint" />
+            <mxPoint x="-307.96000000000004" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-25" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#FF0000&quot;&gt;&lt;b&gt;Нет&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Courier New;" parent="-_wJu4tCFWoY7v_CzMal-24" vertex="1" connectable="0">
@@ -86,8 +86,8 @@
         <mxCell id="-_wJu4tCFWoY7v_CzMal-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Courier New;fontSize=14;" parent="1" source="-_wJu4tCFWoY7v_CzMal-17" target="-_wJu4tCFWoY7v_CzMal-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="370" y="840" />
-              <mxPoint x="370" y="840" />
+              <mxPoint x="-608" y="840" />
+              <mxPoint x="-608" y="840" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -97,35 +97,35 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-17" value="Путь верный?" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Courier New;strokeColor=#0000FF;fillColor=#E6D0DE;" parent="1" vertex="1">
-          <mxGeometry x="240" y="730" width="260" height="80" as="geometry" />
+          <mxGeometry x="-738" y="730" width="260" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Courier New;fontSize=14;" parent="1" source="-_wJu4tCFWoY7v_CzMal-22" target="-_wJu4tCFWoY7v_CzMal-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-22" value="Записать в словарь в ключ mode введенный режим " style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Courier New;" parent="1" vertex="1">
-          <mxGeometry x="240" y="860" width="260" height="60" as="geometry" />
+          <mxGeometry x="-738" y="860" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.808;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Courier New;fontSize=14;" parent="1" target="-_wJu4tCFWoY7v_CzMal-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="670" y="370" />
-              <mxPoint x="450" y="370" />
+              <mxPoint x="-308" y="370" />
+              <mxPoint x="-528" y="370" />
             </Array>
-            <mxPoint x="670" y="510" as="sourcePoint" />
+            <mxPoint x="-308" y="510" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Courier New;fontSize=14;" parent="1" source="-_wJu4tCFWoY7v_CzMal-32" target="-_wJu4tCFWoY7v_CzMal-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-32" value="Проверка наличия всех файлов по ключам словаря" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Courier New;" parent="1" vertex="1">
-          <mxGeometry x="240" y="990" width="260" height="60" as="geometry" />
+          <mxGeometry x="-738" y="990" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Courier New;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-_wJu4tCFWoY7v_CzMal-33" target="-_wJu4tCFWoY7v_CzMal-34" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="1240" as="targetPoint" />
+            <mxPoint x="-528" y="1240" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="370" y="1220" />
-              <mxPoint x="370" y="1220" />
+              <mxPoint x="-608" y="1220" />
+              <mxPoint x="-608" y="1220" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -137,9 +137,9 @@
         <mxCell id="-_wJu4tCFWoY7v_CzMal-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.215;entryY=-0.02;entryDx=0;entryDy=0;fontFamily=Courier New;fontSize=12;entryPerimeter=0;" parent="1" source="-_wJu4tCFWoY7v_CzMal-33" target="-_wJu4tCFWoY7v_CzMal-56" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="170" y="1130" />
-              <mxPoint x="170" y="1660" />
-              <mxPoint x="296" y="1660" />
+              <mxPoint x="-808" y="1130" />
+              <mxPoint x="-808" y="1660" />
+              <mxPoint x="-682" y="1660" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -149,25 +149,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-33" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Все файлы найдены?&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Courier New;fontSize=14;strokeColor=#0000FF;fillColor=#E6D0DE;" parent="1" vertex="1">
-          <mxGeometry x="240" y="1090" width="260" height="80" as="geometry" />
+          <mxGeometry x="-738" y="1090" width="260" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Courier New;fontSize=14;" parent="1" source="-_wJu4tCFWoY7v_CzMal-34" target="-_wJu4tCFWoY7v_CzMal-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-34" value="&lt;div&gt;Вывести пользователю &lt;br&gt;&lt;/div&gt;&lt;div&gt;сообщение содержащее информацию &lt;br&gt;&lt;/div&gt;&lt;div&gt;о том каких файлов не хватает&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Courier New;strokeColor=#009900;fillColor=#00FF00;" parent="1" vertex="1">
-          <mxGeometry x="240" y="1220" width="260" height="60" as="geometry" />
+          <mxGeometry x="-738" y="1220" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Courier New;fontSize=12;" parent="1" source="-_wJu4tCFWoY7v_CzMal-42" target="-_wJu4tCFWoY7v_CzMal-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-42" value="&lt;div&gt;Предложить пользователю &lt;br&gt;&lt;/div&gt;создать файлы которых не хватает" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Courier New;strokeColor=#009900;fillColor=#00FF00;" parent="1" vertex="1">
-          <mxGeometry x="240" y="1320" width="260" height="60" as="geometry" />
+          <mxGeometry x="-738" y="1320" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Courier New;fontSize=12;" parent="1" source="-_wJu4tCFWoY7v_CzMal-44" target="-_wJu4tCFWoY7v_CzMal-50" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="850" y="1470" />
-              <mxPoint x="850" y="1990" />
+              <mxPoint x="-128" y="1470" />
+              <mxPoint x="-128" y="1990" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -185,13 +185,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-44" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Пользователь выбрал вариант &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;создания файлов?&lt;/font&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Courier New;fontSize=14;strokeColor=#0000FF;fillColor=#E6D0DE;" parent="1" vertex="1">
-          <mxGeometry x="240" y="1430" width="260" height="80" as="geometry" />
+          <mxGeometry x="-738" y="1430" width="260" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Courier New;fontSize=14;" parent="1" source="-_wJu4tCFWoY7v_CzMal-48" target="-_wJu4tCFWoY7v_CzMal-98" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-48" value="Осуществить выход из программы" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Courier New;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="720" y="2670" width="260" height="60" as="geometry" />
+          <mxGeometry x="-258" y="2670" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Courier New;fontSize=14;" parent="1" source="-_wJu4tCFWoY7v_CzMal-49" target="-_wJu4tCFWoY7v_CzMal-56" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -199,32 +199,32 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-49" value="Создать необходимые файлы" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Courier New;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="240" y="1560" width="260" height="60" as="geometry" />
+          <mxGeometry x="-738" y="1560" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Courier New;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-_wJu4tCFWoY7v_CzMal-50" target="-_wJu4tCFWoY7v_CzMal-48" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="880" y="2600" as="targetPoint" />
+            <mxPoint x="-98" y="2600" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="850" y="2660" />
-              <mxPoint x="850" y="2660" />
+              <mxPoint x="-128" y="2660" />
+              <mxPoint x="-128" y="2660" />
             </Array>
-            <mxPoint x="906" y="2050" as="sourcePoint" />
+            <mxPoint x="-72" y="2050" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-50" value="&lt;div&gt;Вывести пользователю сообщение&lt;/div&gt;&lt;div&gt;о невозможности работы &lt;br&gt;&lt;/div&gt;&lt;div&gt;программы&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Courier New;strokeColor=#009900;fillColor=#00FF00;" parent="1" vertex="1">
-          <mxGeometry x="720" y="2240" width="260" height="60" as="geometry" />
+          <mxGeometry x="-258" y="2240" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Courier New;fontSize=14;" parent="1" source="-_wJu4tCFWoY7v_CzMal-56" target="-_wJu4tCFWoY7v_CzMal-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-56" value="Проверить занятость ника прописанного в файле user.txt" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Courier New;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="240" y="1700" width="260" height="60" as="geometry" />
+          <mxGeometry x="-738" y="1700" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Courier New;fontSize=14;" parent="1" source="-_wJu4tCFWoY7v_CzMal-61" target="-_wJu4tCFWoY7v_CzMal-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-61" value="Записать вход пользователя в chat.txt" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Courier New;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="240" y="1990" width="260" height="60" as="geometry" />
+          <mxGeometry x="-738" y="1990" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Courier New;fontSize=14;" parent="1" source="-_wJu4tCFWoY7v_CzMal-63" target="-_wJu4tCFWoY7v_CzMal-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -243,46 +243,46 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-63" value="Ник занят?" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Courier New;fontSize=14;strokeColor=#0000FF;fillColor=#E6D0DE;" parent="1" vertex="1">
-          <mxGeometry x="240" y="1830" width="260" height="80" as="geometry" />
+          <mxGeometry x="-738" y="1830" width="260" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontFamily=Courier New;fontSize=14;" parent="1" source="-_wJu4tCFWoY7v_CzMal-66" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="697" y="1660" />
-              <mxPoint x="450" y="1660" />
+              <mxPoint x="-281" y="1660" />
+              <mxPoint x="-528" y="1660" />
             </Array>
-            <mxPoint x="450" y="1700" as="targetPoint" />
+            <mxPoint x="-528" y="1700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-66" value="&lt;div&gt;Вывести пользователю сообщение&lt;/div&gt;&lt;div&gt;о занятом нике. &lt;br&gt;&lt;/div&gt;&lt;div&gt;Предложить сменить ник&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Courier New;strokeColor=#009900;fillColor=#00FF00;" parent="1" vertex="1">
-          <mxGeometry x="567" y="1700" width="260" height="60" as="geometry" />
+          <mxGeometry x="-411" y="1700" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Courier New;fontSize=14;" parent="1" source="-_wJu4tCFWoY7v_CzMal-73" target="-_wJu4tCFWoY7v_CzMal-76" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-73" value="Вывести последние 30% файла chat.txt" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Courier New;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="240" y="2140" width="260" height="60" as="geometry" />
+          <mxGeometry x="-738" y="2140" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Courier New;fontSize=14;" parent="1" source="-_wJu4tCFWoY7v_CzMal-76" target="-_wJu4tCFWoY7v_CzMal-78" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-76" value="&lt;div&gt;Вывести предложение &lt;br&gt;&lt;/div&gt;&lt;div&gt;ввода текста или выйти&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Courier New;fontSize=14;strokeColor=#009900;fillColor=#00FF00;" parent="1" vertex="1">
-          <mxGeometry x="240" y="2240" width="260" height="60" as="geometry" />
+          <mxGeometry x="-738" y="2240" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Courier New;fontSize=14;" parent="1" source="-_wJu4tCFWoY7v_CzMal-78" target="-_wJu4tCFWoY7v_CzMal-79" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-78" value="Ждать 3 секунды." style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Courier New;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="240" y="2338" width="260" height="60" as="geometry" />
+          <mxGeometry x="-738" y="2338" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Courier New;fontSize=14;" parent="1" source="-_wJu4tCFWoY7v_CzMal-79" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="550" y="2475" />
-              <mxPoint x="550" y="2090" />
-              <mxPoint x="450" y="2090" />
+              <mxPoint x="-428" y="2475" />
+              <mxPoint x="-428" y="2090" />
+              <mxPoint x="-528" y="2090" />
             </Array>
-            <mxPoint x="450" y="2140" as="targetPoint" />
+            <mxPoint x="-528" y="2140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-83" value="&lt;font color=&quot;#FF0000&quot;&gt;&lt;b&gt;Нет&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Courier New;" parent="-_wJu4tCFWoY7v_CzMal-82" vertex="1" connectable="0">
@@ -293,8 +293,8 @@
         <mxCell id="-_wJu4tCFWoY7v_CzMal-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Courier New;fontSize=14;" parent="1" source="-_wJu4tCFWoY7v_CzMal-79" target="-_wJu4tCFWoY7v_CzMal-87" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="370" y="2530" />
-              <mxPoint x="370" y="2530" />
+              <mxPoint x="-608" y="2530" />
+              <mxPoint x="-608" y="2530" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -304,7 +304,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-79" value="Пользователь ввел текст?" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Courier New;fontSize=14;strokeColor=#0000FF;fillColor=#E6D0DE;" parent="1" vertex="1">
-          <mxGeometry x="240" y="2450" width="260" height="50" as="geometry" />
+          <mxGeometry x="-738" y="2450" width="260" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.199;entryY=0.027;entryDx=0;entryDy=0;fontFamily=Courier New;fontSize=14;entryPerimeter=0;" parent="1" source="-_wJu4tCFWoY7v_CzMal-87" target="-_wJu4tCFWoY7v_CzMal-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -317,11 +317,11 @@
         <mxCell id="-_wJu4tCFWoY7v_CzMal-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.532;exitY=1.003;exitDx=0;exitDy=0;entryX=0.205;entryY=-0.007;entryDx=0;entryDy=0;fontFamily=Courier New;fontSize=14;exitPerimeter=0;entryPerimeter=0;" parent="1" source="-_wJu4tCFWoY7v_CzMal-94" target="-_wJu4tCFWoY7v_CzMal-73" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="366" y="2730" />
-              <mxPoint x="366" y="2800" />
-              <mxPoint x="126" y="2800" />
-              <mxPoint x="126" y="2090" />
-              <mxPoint x="293" y="2090" />
+              <mxPoint x="-612" y="2730" />
+              <mxPoint x="-612" y="2800" />
+              <mxPoint x="-852" y="2800" />
+              <mxPoint x="-852" y="2090" />
+              <mxPoint x="-685" y="2090" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -334,28 +334,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-87" value="Пользователь ввел комбинацию выхода?" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Courier New;fontSize=14;strokeColor=#0000FF;fillColor=#E6D0DE;" parent="1" vertex="1">
-          <mxGeometry x="240" y="2560" width="260" height="60" as="geometry" />
+          <mxGeometry x="-738" y="2560" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-94" value="Записать сообщение пользователя в chat.txt" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Courier New;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="240" y="2670" width="260" height="60" as="geometry" />
+          <mxGeometry x="-738" y="2670" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-98" value="&lt;font face=&quot;Courier New&quot;&gt;Конец программы&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="2820" width="260" height="30" as="geometry" />
+          <mxGeometry x="-258" y="2820" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-_wJu4tCFWoY7v_CzMal-101" value="&lt;div&gt;Вывести пользователю &lt;br&gt;&lt;/div&gt;&lt;div&gt;сообщение:&lt;/div&gt;&lt;div&gt;Путь содержит ошибку &lt;br&gt;&lt;/div&gt;&lt;div&gt;или не найден&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Courier New;strokeColor=#009900;fillColor=#00FF00;" parent="1" vertex="1">
-          <mxGeometry x="540" y="510" width="260" height="60" as="geometry" />
+          <mxGeometry x="-438" y="510" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zv35brcsEW0MMsmxYVBT-8" value="&lt;h1&gt;&lt;font face=&quot;Courier New&quot;&gt;Main &lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font face=&quot;Courier New&quot;&gt;Часть программы выполняемая не в функции&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="70" width="260" height="180" as="geometry" />
+          <mxGeometry x="-295" y="67" width="260" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Zv35brcsEW0MMsmxYVBT-9" value="&lt;h1&gt;def mode_work&lt;br&gt;&lt;/h1&gt;&lt;p&gt;В функции производится проверка выбранного режима работы, проверка пути к сетевой шаре, введенной пользователем.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;fontFamily=Courier New;" vertex="1" parent="1">
-          <mxGeometry x="700" y="270" width="200" height="120" as="geometry" />
+          <mxGeometry x="-1041" y="690" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Zv35brcsEW0MMsmxYVBT-10" value="&lt;h1&gt;def check_files_rpog&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Производится проверка наличия файлов по списку ключей. Пользователю предлагается создание файлов, если последние не найдены.&lt;/p&gt;&lt;p&gt;Также проверяется ник пользователя, который программа получает из файла username.txt.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;fontFamily=Courier New;" vertex="1" parent="1">
-          <mxGeometry x="620" y="950" width="300" height="210" as="geometry" />
+          <mxGeometry x="-399" y="1103" width="300" height="210" as="geometry" />
         </mxCell>
         <mxCell id="Zv35brcsEW0MMsmxYVBT-11" value="&lt;h1&gt;def chat&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Основная работа программы. Программа выводит сообщения, если пользователь ничего не набирает на клавиатуре. Производится проверка на наличие команды на выход.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;fontFamily=Courier New;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="1950" width="250" height="200" as="geometry" />
+          <mxGeometry x="-1133" y="2344" width="250" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
