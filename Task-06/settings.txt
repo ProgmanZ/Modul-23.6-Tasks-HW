@@ -1,0 +1,4 @@
+server \\MainPC\test_chat_project
+mode server
+nickname т
+created 07/11/2022--20:45:41
